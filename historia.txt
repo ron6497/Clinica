@@ -1,4 +1,4 @@
-Freddy paciente de 40 años de edad acude a este centro hospitalario indicando que presenta
+﻿Freddy paciente de 40 años de edad acude a este centro hospitalario indicando que presenta
 mareos,bausas y vomitos, dice no presentar patologias previas pero que e su familia si existen
 hipertensos, le haremos evaluaciones para corroborar su estado de salud, ya que s le encontro presion
 arterial de 150/100 algo bastante alto para alguien que dice no tener problemas anteriormente
@@ -16,3 +16,11 @@ santa ana 20 de agosto del 2020
 
 
             Dr.Ronaldo Morán
+
+
+Noviembre del 2020 el paciente fredy acude a este centro hospitalario debido a una complicaciones dice ver borroso
+y que desde hace 2 semana dejo de tomar su medicamento de la diabetes se le dejarán examenes
+para la proxima cita a mas tardar miercoles 22
+
+
+            Dr. Ronaldo Morán
